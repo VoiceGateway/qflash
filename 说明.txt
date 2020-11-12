@@ -1,5 +1,5 @@
-ÎªÁË±£³Ö¹¦ÄÜÍêÕû£¬ĞèÒª°Ñ Qfirehose_linux Qfastboot_linux Ìí¼Óµ½ Qflash Ô´ÂëÄ¿Â¼¡£
-Qfirehose_linux ÃüÃûÎª firehose£»
-Qfastboot_linux ÃüÃûÎªfastboot£»
+ä¸ºäº†ä¿æŒåŠŸèƒ½å®Œæ•´ï¼Œéœ€è¦æŠŠ Qfirehose_linux Qfastboot_linux æ·»åŠ åˆ° Qflash æºç ç›®å½•ã€‚
+Qfirehose_linux å‘½åä¸º firehoseï¼›
+Qfastboot_linux å‘½åä¸º fastbootï¼›
 
-³ı·ÇÄãÖ»Ê¹ÓÃ Qflash -m 1 ²ÎÊı£¬·ñÔò£¬ÆäËûÁ½¸öÄ£¿é×îºÃ¶¼Òª¼Ó½øÀ´
+é™¤éä½ åªä½¿ç”¨ Qflash -m 1 å‚æ•°ï¼Œå¦åˆ™ï¼Œå…¶ä»–ä¸¤ä¸ªæ¨¡å—æœ€å¥½éƒ½è¦åŠ è¿›æ¥

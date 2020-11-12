@@ -2,7 +2,7 @@
 
 Qflash[^1], a upgrade tool for quectel devices.
 
-# file directory tree
+## file directory tree
 
 > If firehose directory is not exist, firehose can not be used.
 >
@@ -76,15 +76,13 @@ root@ubuntu:# tree
 └── tool.sh
 ```
 
-
-
-# Qflash call thirtd-party tool (firehose or fastboot)
+## Qflash call thirtd-party tool (firehose or fastboot)
 
 > Qflash can call third-party update tools use exec() family of functions.
 
-## Qflash help message
+### Qflash help message
 
->  fastboot should can be called when using '-m 0' and '-m 2'
+> fastboot should can be called when using '-m 0' and '-m 2'
 
 ```bash
 
